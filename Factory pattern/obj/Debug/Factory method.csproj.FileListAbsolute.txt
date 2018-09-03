@@ -1,0 +1,10 @@
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\bin\Debug\Factory pattern.exe.config
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\bin\Debug\Factory pattern.exe
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\bin\Debug\Factory pattern.pdb
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\bin\Debug\Shared.dll
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\bin\Debug\Shared.pdb
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\obj\Debug\Factory method.csprojAssemblyReference.cache
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\obj\Debug\Factory method.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\obj\Debug\Factory method.csproj.CopyComplete
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\obj\Debug\Factory pattern.exe
+C:\Users\maksy\source\repos\Design patterns\Factory pattern\obj\Debug\Factory pattern.pdb

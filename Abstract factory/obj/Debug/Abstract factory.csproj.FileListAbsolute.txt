@@ -1,0 +1,10 @@
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\bin\Debug\Abstract factory.exe.config
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\bin\Debug\Abstract factory.exe
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\bin\Debug\Abstract factory.pdb
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\bin\Debug\Shared.dll
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\bin\Debug\Shared.pdb
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\obj\Debug\Abstract factory.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\obj\Debug\Abstract factory.csproj.CopyComplete
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\obj\Debug\Abstract factory.exe
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\obj\Debug\Abstract factory.pdb
+C:\Users\maksy\source\repos\Design patterns\Abstract factory\obj\Debug\Abstract factory.csprojAssemblyReference.cache

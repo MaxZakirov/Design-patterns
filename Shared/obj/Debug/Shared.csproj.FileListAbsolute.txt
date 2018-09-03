@@ -1,0 +1,5 @@
+c:\users\maksy\source\repos\Design patterns\Shared\bin\Debug\Shared.dll
+c:\users\maksy\source\repos\Design patterns\Shared\bin\Debug\Shared.pdb
+c:\users\maksy\source\repos\Design patterns\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+c:\users\maksy\source\repos\Design patterns\Shared\obj\Debug\Shared.dll
+c:\users\maksy\source\repos\Design patterns\Shared\obj\Debug\Shared.pdb
