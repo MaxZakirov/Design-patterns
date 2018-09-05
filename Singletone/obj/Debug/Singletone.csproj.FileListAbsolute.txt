@@ -1,0 +1,7 @@
+C:\Users\maksy\source\repos\Design patterns\Singletone\bin\Debug\Singletone.exe.config
+C:\Users\maksy\source\repos\Design patterns\Singletone\bin\Debug\Singletone.exe
+C:\Users\maksy\source\repos\Design patterns\Singletone\bin\Debug\Singletone.pdb
+C:\Users\maksy\source\repos\Design patterns\Singletone\obj\Debug\Singletone.csprojAssemblyReference.cache
+C:\Users\maksy\source\repos\Design patterns\Singletone\obj\Debug\Singletone.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\Design patterns\Singletone\obj\Debug\Singletone.exe
+C:\Users\maksy\source\repos\Design patterns\Singletone\obj\Debug\Singletone.pdb
