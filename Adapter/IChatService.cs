@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-	public interface ILanguageAdapter
+	public interface IChatService
 	{
-		string GetEnglishGreeding(string greeding);
-
-		string GetSpanishGreeding(string greeding);
+		string GetGreeding(string greeding);
 	}
 }

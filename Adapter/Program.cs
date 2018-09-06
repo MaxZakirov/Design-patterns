@@ -12,11 +12,13 @@ namespace Adapter
 		{
 			try
 			{
-				ILanguageAdapter adapter = new LanguageAdapter();
-				EnglishAndSpanishSpeaker man = new EnglishAndSpanishSpeaker();
-				Console.WriteLine(man.GetGreeding(adapter.GetEnglishGreeding("Привет")));
-				Console.WriteLine(man.GetGreeding(adapter.GetSpanishGreeding("Привет")));
-				man.GetGreeding("Привет");
+				string msg = "Привет";
+				IChatService service = new ChatAdapter(new EnglishChatService());
+				Console.WriteLine(service.GetGreeding(service.GetGreeding(msg)));
+				service = new ChatAdapter(new SpanishChatService());
+				Console.WriteLine(service.GetGreeding(service.GetGreeding(msg)));
+				service = new SpanishChatService();
+				Console.WriteLine(service.GetGreeding(msg));
 			}
 			catch(Exception ex)
 			{
